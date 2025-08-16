@@ -19,4 +19,16 @@ Asistente por voz que pregunta la plataforma (**Mercado Libre** o **Amazon**), s
 
 ---
 
+
+## 2) Translate App
+Traductor simple de español a inglés usando **GoogleTranslator** de `deep-translator`.
+
+- **Dependencias:** `deep-translator`
+- **Instalación rápida:** `pip install deep-translator`
+- **Uso:** `python translate_app.py`  
+  Escribir una frase en español y devuelve la traducción al inglés.
+
+  ---
+  
+
 > Se irán agregando más mini-proyectos en este mismo repositorio.
