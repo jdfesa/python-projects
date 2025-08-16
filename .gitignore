@@ -1,0 +1,14 @@
+# Entorno virtual
+.venv/
+venv/
+ENV/
+
+# Cachés de Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Archivos del sistema / editores
+.DS_Store
+Thumbs.db
+.vscode/
