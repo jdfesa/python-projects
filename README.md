@@ -59,4 +59,18 @@ sudo python3 keylogger.py
 ```
 El archivo data.txt se generará en tu directorio HOME.
 
+---
+## 5) Alarma
+
+Pequeño script de alarma en Python que reproduce un archivo de audio (`alarma_python.mp3`) después de un tiempo definido por el usuario.
+
+### Dependencias
+```bash
+pip install playsound==1.2.2
+```
+Colocar el archivo alarma_python.mp3 en el mismo directorio que el script.
+
+---
+
+
 > Se irán agregando más mini-proyectos en este mismo repositorio.
