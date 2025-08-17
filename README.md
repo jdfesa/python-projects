@@ -29,6 +29,15 @@ Traductor simple de español a inglés usando **GoogleTranslator** de `deep-tran
   Escribir una frase en español y devuelve la traducción al inglés.
 
   ---
-  
+## 3) Gusano
+
+Ejemplo simple de un "gusano": un script que se **autoreplica** en el mismo directorio.  
+Recibe como parámetro la cantidad de copias a crear.  
+
+Por ejemplo:
+
+```bash
+python3 gusano.py 3
+```
 
 > Se irán agregando más mini-proyectos en este mismo repositorio.
