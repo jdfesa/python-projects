@@ -40,4 +40,23 @@ Por ejemplo:
 python3 gusano.py 3
 ```
 
+---
+
+## 4) Keylogger educativo
+
+Ejemplo simple de captura de teclas en Python usando la librería [`keyboard`](https://pypi.org/project/keyboard/).
+
+El programa guarda las teclas presionadas en un archivo de texto (`data.txt`).  
+Por ejemplo, si presionás `hola mundo`, en el archivo se irá registrando cada tecla, y los espacios se guardan como `" "`.
+
+### Instalación
+```bash
+pip install keyboard
+```
+Uso
+```bash
+sudo python3 keylogger.py
+```
+El archivo data.txt se generará en tu directorio HOME.
+
 > Se irán agregando más mini-proyectos en este mismo repositorio.
